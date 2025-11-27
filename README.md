@@ -1,6 +1,6 @@
 # Hi, I'm Muhsina 👋  
-M.Sc Bioinformatics graduate with hands-on experience in CADD, genomic data analysis, and Python/R programming.  
-Interested in computational biology, NGS pipelines, and structural bioinformatics.
+M.Sc Bioinformatics graduate with hands-on experience in structural bioinformatics, genomic data analysis, and Python/R programming.  
+Interested in computational biology, NGS pipelines, genomics and data analysis works.
 
 ## Areas of Interest  
 - Genomics & NGS Analysis  
