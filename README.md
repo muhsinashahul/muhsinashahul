@@ -2,22 +2,22 @@
 M.Sc Bioinformatics graduate with hands-on experience in CADD, genomic data analysis, and Python/R programming.  
 Interested in computational biology, NGS pipelines, and structural bioinformatics.
 
-## 🔬 Areas of Interest  
+## Areas of Interest  
 - Genomics & NGS Analysis  
 - Structural Bioinformatics  
 - Protein–Ligand Docking  
 - Computational Drug Discovery  
 - Data Analysis in Python & R  
 
-## 📂 Project Repositories  
+## Project Repositories  
 - Bioinformatics Scripts – Basic Python/R scripts for sequence analysis  
 - Drug Repurposing Project – Structural biology academic project  
 - NGS Workshop Notes – Notes, scripts, and summaries  
 
-## 🌱 Currently Improving  
+## Currently Improving  
 Python scripts, R visualizations, and pipeline automation.
 
-## 📫 Contact  
+## Contact  
 muhsinashahul555@gmail.com
 
 <!--
