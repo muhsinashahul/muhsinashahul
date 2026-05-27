@@ -10,8 +10,9 @@ Interested in computational biology, NGS pipelines, genomics and data analysis w
 - Data Analysis in Python & R  
 
 ## Project Repositories  
-- Bioinformatics Scripts – Basic Python/R scripts for sequence analysis  
-- Drug Repurposing Project – Structural biology academic project  
+- circRNA extraction pipeline
+- Drug Repurposing Project – Structural biology academic project
+- Bioinformatics Scripts – Basic Python/R scripts for sequence analysis 
 - NGS Workshop Notes – Notes, scripts, and summaries  
 
 ## Currently Improving  
