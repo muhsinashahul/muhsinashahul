@@ -10,7 +10,7 @@ Interested in computational biology, NGS pipelines, genomics and data analysis w
 - Data Analysis in Python & R  
 
 ## Project Repositories  
-- circRNA extraction pipeline
+- Snakemake-Based circRNA Extraction and Identification Pipeline
 - Drug Repurposing Project – Structural biology academic project
 - Bioinformatics Scripts – Basic Python/R scripts for sequence analysis 
 - NGS Workshop Notes – Notes, scripts, and summaries  
